@@ -1,0 +1,31 @@
+<html>
+<head><b><h2><font color="white">Courses</font></b></h2></head>
+<title>LIST</title>
+<body bgcolor="white">
+<b>
+<ul>
+<li> <a href="java.html" target="f2" >Java</a>
+<li> <a href=".net.html" target="f2" >.Net</a>
+<li> <a href="android.html" target="f2" >Android</a>
+<li> <a href="linux.html" target="f2" >Linux</a>
+<li> <a href="oracle.html" target="f2" >Oracle</a>
+</ul>
+<br>
+<br>
+<br>
+<a href="contact.html" target="f2" ><input type="button" value="contact us"></input></a>
+</b>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

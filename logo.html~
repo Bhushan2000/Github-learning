@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>logo</title>
+<body bgcolor="#E8E8E8">
+<CENTER>
+<marquee direction="up" height="100%">
+<b><img src=".net.jpg" height="300" width="300" alt=".Net"><br>.Net</img><br><br>
+ 
+ 
+
+ 
+<img src="android1.png" height="300" width="300" alt="Android">
+ 
+
+
+ 
+<img src="java.jpg" height="300" width="300" alt="Java">
+
+ 
+<img src="linux.png" height="300" width="300" alt="linux">
+
+ 
+<img src="oracle.jpg" height="300" width="300" alt="oracle">
+</center>
+</body>
+</marquee>
+</head>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>LOGO</title>
+    </head>
+    <body bgcolor="white">
+
+        <table border = "0">
+
+            <tr>
+                <td><img src="0.jpg" width="250" height="150"></img>
+                    <td><font color = "White" face = "times new roman" size = "15"><center>Cornerstone Information Technologies Pvt. Ltd </center></font>
+
+                        <marquee direction = "left" heignt = "100%" ><font color = "orange" face = "times new roman" size = "5"><b>Welcome To Cornerstone Information Technologies </font></marquee> 
+            </tr>
+        </table>
+
+        <table align="right" border="0">
+            <tr>
+                <td><a href="registration.html" target="f2"><input type="button" value="Registration"></input></a>
+                    <td> <a href="signin.html" target="f2"><input type="button" value="sign up" align ="right"></input></a>                
+            </tr>
+        </table>
+
+    </body>
+</html>
